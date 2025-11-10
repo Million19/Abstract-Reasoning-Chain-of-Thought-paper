@@ -29,7 +29,7 @@ By systematically injecting symbolic grounding and critical self-awareness into 
 
 ### **About the Author**  
 
-Michael Alamin Abdulselam is an independent AI researcher who studied Computer Science at the University of Skövde (Högskolan i Skövde), Sweden. His work focuses on developing robust, principled systems to solve complex, high-impact challenges.
+Michael Alamin is an independent AI researcher who studied Computer Science at the University of Skövde (Högskolan i Skövde), Sweden. His work focuses on developing robust, principled systems to solve complex, high-impact challenges.
 
 
 His research interests lie at the intersection of artificial intelligence and the physical world, specifically in how AI can be leveraged to design and engineer novel hardware systems. This focus is informed by his practical experience in invention; in 2025, he was awarded the SKAPA Prize (SKAPA-priset), Sweden's largest and most prestigious innovation award. The SKAPA Foundation, established in memory of Alfred Nobel, recognized his development of a groundbreaking hardware and software system—a self-heating, autonomous biodigester.
